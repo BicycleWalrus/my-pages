@@ -29,4 +29,17 @@ title: Home
 ```bash
 git clone https://github.com/<username>/my-pages.git
 cd my-pages
+```
+
+> 🔧 **Pro Tip:** Use `git checkout -b feature/awesome` to manage new pages.
+
+## ✅ Next Steps
+
+- [ ] Create new pages with `vim mypage.md`
+- [ ] Customize `_config.yml`
+- [ ] Add assets in `assets/`
+
+---
+
+[^1]: Markdown is awesome! See [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
